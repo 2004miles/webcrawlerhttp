@@ -1,0 +1,20 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository":{
+      "type": "git",
+      "url": "git+https://github.com/2004miles/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "homepage": "https://github.com/2004miles/webcrawlerhttp#readme"
+}
